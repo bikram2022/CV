@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    text-align: center;
+    background-color:rgb(216, 235, 235);
+}
+h1{
+    font-size: 70px;
+    color: #66BFBF;
+    font-family: 'Carattere', cursive;
+    line-height: 1.1;
+}
+h2{
+    font-size: 2.5em;
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3{
+   color: #11999E
+}
+.footer-link{
+    color: #11999E;
+}
+.my-name{
+    margin-bottom: 0;
+}
+.top-cloud-img{
+    position: static;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+.bottom-cloud-img{
+    position: absolute;
+}
+.profile{
+    margin-top: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 80px auto;
+    text-align: left;
+    line-height: 1.5;
+}
+.pro{
+    text-decoration: underline;
+}
+.c-img{
+    float: left;
+    margin-right: 30px;
+}
+.android-img{
+    float: right;
+    margin-left: 30px;
+}
